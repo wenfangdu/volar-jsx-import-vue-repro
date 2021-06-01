@@ -1,1 +1,1 @@
-<script src="./Foo.jsx"></script>
+<script src="./"></script>
